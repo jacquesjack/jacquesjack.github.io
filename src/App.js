@@ -5,7 +5,7 @@ import Research from './research';
 import Mission from './Mission';
 import Joinus from './Joinus';
 import Navbar from './Navbar';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { BrowserRouter as Route, Routes } from 'react-router-dom'
 
 
 function App() {
