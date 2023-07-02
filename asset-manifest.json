@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jacquesjack.github.io/static/css/main.2eed1255.css",
+    "main.js": "/jacquesjack.github.io/static/js/main.0e5c37d2.js",
+    "static/media/librarypng.png": "/jacquesjack.github.io/static/media/librarypng.e8a9c8ab41e42540621b.png",
+    "static/media/deveydefeatsbb.png": "/jacquesjack.github.io/static/media/deveydefeatsbb.6d1594f5738b019ef332.png",
+    "static/media/finallogo.png": "/jacquesjack.github.io/static/media/finallogo.fd1d80dab8201e3bd741.png",
+    "index.html": "/jacquesjack.github.io/index.html",
+    "main.2eed1255.css.map": "/jacquesjack.github.io/static/css/main.2eed1255.css.map",
+    "main.0e5c37d2.js.map": "/jacquesjack.github.io/static/js/main.0e5c37d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eed1255.css",
+    "static/js/main.0e5c37d2.js"
+  ]
+}
